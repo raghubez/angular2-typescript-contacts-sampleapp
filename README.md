@@ -22,3 +22,4 @@ npm install
 ```
 npm start
 ```
+You can start gulp separately by entering contacts app folder and typing gulp on the terminal
